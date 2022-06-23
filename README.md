@@ -17,24 +17,11 @@ Software to reproduce, distribute copies to the public, prepare derivative
 works, and perform publicly and display publicly, and to permit others to do so.
 
 
-* **This protocol details setting up and running a data quality analysis workflow for data available in the Experiment Data Depot (EDD).
-
-https://www.protocols.io/private/A2B4B174CB7411EA9C520A58A9FEAC2A
 * **BEFORE STARTING
 * **Set up EDD study and import your data. Users are referred to Morrell et al.  
 
 * **The Experiment Data Depot: A Web-Based Software Tool for Biological Experimental Data Storage, Sharing, and Visualization.
 * **https://doi.org/10.1021/acssynbio.7b00204
-
-
-
-###### Instructions for new users:
-**To clone updated omics tool :**
-
-* **Click on sign "+" on the upper left corner of jupyter server
-* **Click on Terminal 
-* **Run the command shown below
-* **git clone https://repo.jbei.org/scm/~nkaplan/ese_automation.git 
 
 
 
